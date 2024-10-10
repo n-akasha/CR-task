@@ -59,7 +59,7 @@ and the pipeline is triggered and started.
 ![image](https://user-images.githubusercontent.com/100461037/173172340-f11305b5-66d0-4055-af36-eaeec5c7b181.png)
 
 
-then copy the alb dns name from the terraform output to your brouser 
+then copy the alb dns name from the terraform output to your browser 
 
 
 
